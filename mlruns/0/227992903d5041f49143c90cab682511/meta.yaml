@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prana/Desktop/data%20science/ML_Flow/mlruns/0/227992903d5041f49143c90cab682511/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 227992903d5041f49143c90cab682511
+run_name: awesome-dog-342
+run_uuid: 227992903d5041f49143c90cab682511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734290664433
+status: 1
+tags: []
+user_id: prana
